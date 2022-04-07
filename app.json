@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/sghhusyuue78hsu/erdft",
+  "repository": "https://github.com/sghhusyuue78hsu/erdft",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
